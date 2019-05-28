@@ -1,4 +1,4 @@
-require "pry"
+
 
 songs = [
   "Phoenix - 1901",
@@ -31,6 +31,6 @@ end
 
 def list(songs)
   songs.each_with_index do |song|
-    binding.pry
+
   end
 end
