@@ -28,6 +28,7 @@ def list(my_songs)
   #list the songs by name
   my_songs.keys.each.with_index(1) do |song, index|
     puts "#{index}. #{song}"
+  end
 end
 
 
