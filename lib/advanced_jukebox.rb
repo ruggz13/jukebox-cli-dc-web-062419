@@ -63,10 +63,10 @@ def run(my_songs)
     puts "Please enter a command:"
     user_input = gets.downcase.strip
     if user_input == "list"
-      list(songs)
+      list(my_songs)
     elsif user_input == "play"
-      list(songs)
-      play(songs)
+      list(my_songs)
+      play(my_songs)
     elsif user_input == "help"
       help
     elsif user_input == "exit"
