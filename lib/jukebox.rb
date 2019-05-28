@@ -26,3 +26,9 @@ def help
   - play : lets you choose a song to play
   - exit : exits this program"
 end
+
+def list(songs)
+  songs.each_with_index do |song|
+    binding.pry
+  end
+end
