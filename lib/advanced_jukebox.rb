@@ -3,13 +3,13 @@
 #with the correct path to this directory on your computer
 
 my_songs = {
-"Go Go GO" => '/home/ruggz13/jukebox-cli-dc-web-062419/audio/Emerald-Park/01.mp3',
-"LiberTeens" => '/home/ruggz13/jukebox-cli-dc-web-062419/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  '/home/ruggz13/jukebox-cli-dc-web-062419/audio/Emerald-Park/03.mp3',
-"Guiding Light" => '/home/ruggz13/jukebox-cli-dc-web-062419/audio/Emerald-Park/04.mp3',
-"Wolf" => '/home/ruggz13/jukebox-cli-dc-web-062419/audio/Emerald-Park/05.mp3',
-"Blue" => '/home/ruggz13/jukebox-cli-dc-web-062419/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => '/home/ruggz13/jukebox-cli-dc-web-062419/audio/Emerald-Park/07.mp3'
+"Go Go GO" => '/home/ruggz13/jukebox-cli/audio/Emerald-Park/01.mp3',
+"LiberTeens" => '/home/ruggz13/jukebox-cli/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '/home/ruggz13/jukebox-cli/audio/Emerald-Park/03.mp3',
+"Guiding Light" => '/home/ruggz13/jukebox-cli/audio/Emerald-Park/04.mp3',
+"Wolf" => '/home/ruggz13/jukebox-cli/audio/Emerald-Park/05.mp3',
+"Blue" => '/home/ruggz13/jukebox-cli/audio/Emerald-Park/06.mp3',
+"Graduation Failed" => '/home/ruggz13/jukebox-cli/audio/Emerald-Park/07.mp3'
 }
 
 def help
