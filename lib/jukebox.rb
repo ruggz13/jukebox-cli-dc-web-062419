@@ -52,7 +52,6 @@ def exit_jukebox
 end
 
 def run(songs)
-  #help
   user_input = ""
   while user_input
     puts "Please enter a command:"
@@ -70,5 +69,5 @@ def run(songs)
     else
       help
     end
-  end  
+  end
 end
